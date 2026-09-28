@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.tools/
+test-results/
+playwright-report/
+tmp/
+reports/
+imports/
+outputs/
+*.tsbuildinfo
+*.log
+.env*
+!.env.example
+CATALOGO COMPLETO ALTA DEFINIZIONE.pdf
+CASTELLO 2026..XLS
+CASTELLO 2026.rev.1.XLS

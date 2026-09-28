@@ -1,0 +1,17 @@
+[
+  { "nome": "Diluenti", "sottocategorie": [] },
+  { "nome": "Rulli & Pennelli", "sottocategorie": ["Pennelli", "Rullini"] },
+  { "nome": "Mascherature", "sottocategorie": ["Nastri", "Mascheratura"] },
+  { "nome": "Abrasivi", "sottocategorie": ["Sia", "Norton", "Accessori"] },
+  { "nome": "Resine ed Affini", "sottocategorie": ["Poliesteri", "Epossidiche", "Additivi"] },
+  { "nome": "Lucidatura", "sottocategorie": ["Paste", "Supporti"] },
+  { "nome": "Sigillanti", "sottocategorie": ["Sika", "NPT"] },
+  { "nome": "Jotun", "sottocategorie": ["Primer", "Stucchi"] },
+  { "nome": "Epifanes", "sottocategorie": [] },
+  { "nome": "Skipper", "sottocategorie": ["Diluenti", "Antivegetative", "Smalti e Fondi"] },
+  { "nome": "Stucchi", "sottocategorie": [] },
+  { "nome": "Sestriere", "sottocategorie": [] },
+  { "nome": "Hempel", "sottocategorie": [] },
+  { "nome": "International", "sottocategorie": [] },
+  { "nome": "DPI e Varie", "sottocategorie": ["DPI", "Varie"] }
+]

@@ -1,0 +1,2344 @@
+[
+  {
+    "id": "excel:diluenti:009-ABETE-1",
+    "codice": "009-ABETE-1",
+    "descrizione": "ACQUARAGIA  LT.1",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 2,
+      "ordinamentoOriginale": "009-ABETE-1  ACQUARAGIA  LT.1"
+    }
+  },
+  {
+    "id": "excel:diluenti:009-ACETONEL-5",
+    "codice": "009-ACETONEL-5",
+    "descrizione": "ACETONE LAVAGGIO  LT.5",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 3,
+      "ordinamentoOriginale": "009-ACETONEL-5  ACETONE LAVAGGIO  LT.5"
+    }
+  },
+  {
+    "id": "excel:diluenti:009-ALCOOL-0.75",
+    "codice": "009-ALCOOL-0.75",
+    "descrizione": "ALCOOL 94  LT.1",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 4,
+      "ordinamentoOriginale": "009-ALCOOL-0.75  ALCOOL 94  LT.1"
+    }
+  },
+  {
+    "id": "excel:diluenti:009-ANTIS-1",
+    "codice": "009-ANTIS-1",
+    "descrizione": "ANTISILICONE LT.1",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 5,
+      "ordinamentoOriginale": "009-ANTIS-1  ANTISILICONE LT.1"
+    }
+  },
+  {
+    "id": "excel:diluenti:009-ANTIS-5",
+    "codice": "009-ANTIS-5",
+    "descrizione": "ANTISILICONE LT.5",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 6,
+      "ordinamentoOriginale": "009-ANTIS-5  ANTISILICONE LT.5"
+    }
+  },
+  {
+    "id": "excel:diluenti:009-DILE-5",
+    "codice": "009-DILE-5",
+    "descrizione": "DILUENTE EPOSSIDICO  LT.5",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 7,
+      "ordinamentoOriginale": "009-DILE-5  DILUENTE EPOSSIDICO  LT.5"
+    }
+  },
+  {
+    "id": "excel:diluenti:009-DILN-1",
+    "codice": "009-DILN-1",
+    "descrizione": "DILUENTE NITRO ANTINEBBIA TOP LT.1",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 8,
+      "ordinamentoOriginale": "009-DILN-1  DILUENTE NITRO ANTINEBBIA TOP LT.1"
+    }
+  },
+  {
+    "id": "excel:diluenti:009-DILN-25",
+    "codice": "009-DILN-25",
+    "descrizione": "DILUENTE NITRO ANTINEBBIA TOP LT.25",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 9,
+      "ordinamentoOriginale": "009-DILN-25  DILUENTE NITRO ANTINEBBIA TOP LT.25"
+    }
+  },
+  {
+    "id": "excel:diluenti:009-DILN-5",
+    "codice": "009-DILN-5",
+    "descrizione": "DILUENTE NITRO ANTINEBBIA TOP LT.5",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 10,
+      "ordinamentoOriginale": "009-DILN-5  DILUENTE NITRO ANTINEBBIA TOP LT.5"
+    }
+  },
+  {
+    "id": "excel:diluenti:122-ACETONE-25",
+    "codice": "122-ACETONE-25",
+    "descrizione": "ACETONE PURO  LT.25",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 11,
+      "ordinamentoOriginale": "122-ACETONE-25  ACETONE PURO  LT.25"
+    }
+  },
+  {
+    "id": "excel:diluenti:009-3666-4",
+    "codice": "009-3666-4",
+    "descrizione": "SVERNICIATORE VIA TUTTO LT.4",
+    "categoria": "Diluenti",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Diluenti",
+      "riga": 12,
+      "ordinamentoOriginale": "009-3666-4  SVERNICIATORE VIA TUTTO LT.4"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:002-404-30CF",
+    "codice": "002-404-30CF",
+    "descrizione": "PENNELLESSE S.300 N.30 CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 3,
+      "ordinamentoOriginale": "002-404-30CF  PENNELLESSE S.300 N.30 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:002-404-40CF",
+    "codice": "002-404-40CF",
+    "descrizione": "PENNELLESSE S.300 N.40 CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 4,
+      "ordinamentoOriginale": "002-404-40CF  PENNELLESSE S.300 N.40 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:002-404-50CF",
+    "codice": "002-404-50CF",
+    "descrizione": "PENNELLESSE S.300 N.50 CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 5,
+      "ordinamentoOriginale": "002-404-50CF  PENNELLESSE S.300 N.50 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:002-606-10CF",
+    "codice": "002-606-10CF",
+    "descrizione": "OVALINI S.330 N.10 CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 6,
+      "ordinamentoOriginale": "002-606-10CF  OVALINI S.330 N.10 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:002-606-16CF",
+    "codice": "002-606-16CF",
+    "descrizione": "OVALINI S.330 N.16 CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 7,
+      "ordinamentoOriginale": "002-606-16CF  OVALINI S.330 N.16 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:002-606-6CF",
+    "codice": "002-606-6CF",
+    "descrizione": "OVALINI S.330 N.6 CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 8,
+      "ordinamentoOriginale": "002-606-6CF  OVALINI S.330 N.6 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:002-606-8CF",
+    "codice": "002-606-8CF",
+    "descrizione": "OVALINI S.330 N.8 CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 9,
+      "ordinamentoOriginale": "002-606-8CF  OVALINI S.330 N.8 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:003-13-10CF",
+    "codice": "003-13-10CF",
+    "descrizione": "STROZZATO S.11 N.10 CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 10,
+      "ordinamentoOriginale": "003-13-10CF  STROZZATO S.11 N.10 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:003-13-4CF",
+    "codice": "003-13-4CF",
+    "descrizione": "STROZZATO S.11 N.4 CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 11,
+      "ordinamentoOriginale": "003-13-4CF  STROZZATO S.11 N.4 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:003-13-6CF",
+    "codice": "003-13-6CF",
+    "descrizione": "STROZZATO S.11 N.6 CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 12,
+      "ordinamentoOriginale": "003-13-6CF  STROZZATO S.11 N.6 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:003-56-2 1/2",
+    "codice": "003-56-2 1/2",
+    "descrizione": "PENNELLESSA S.56/M 2 1/2\"\"",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Pennelli",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 13,
+      "ordinamentoOriginale": "003-56-2 1/2  PENNELLESSA S.56/M 2 1/2\"\""
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:003-7000P-10CF",
+    "codice": "003-7000P-10CF",
+    "descrizione": "RULLINO RIGA VERDE S.7000P CM.10 CF.10PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Rullini",
+    "confezione": "CF.10PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 15,
+      "ordinamentoOriginale": "003-7000P-10CF  RULLINO RIGA VERDE S.7000P CM.10 CF.10PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:003-7600-RICCF",
+    "codice": "003-7600-RICCF",
+    "descrizione": "RULLINO FIOCCATO ARANCIONE CM.10 S.7600/P CF.10PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Rullini",
+    "confezione": "CF.10PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 16,
+      "ordinamentoOriginale": "003-7600-RICCF  RULLINO FIOCCATO ARANCIONE CM.10 S.7600/P CF.10PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:002-1125-RICCF",
+    "codice": "002-1125-RICCF",
+    "descrizione": "RULLINO RIGA GIALLA ART.8000 CM.10 CF.10PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Rullini",
+    "confezione": "CF.10PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 17,
+      "ordinamentoOriginale": "002-1125-RICCF  RULLINO RIGA GIALLA ART.8000 CM.10 CF.10PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:002-1127-RICCF",
+    "codice": "002-1127-RICCF",
+    "descrizione": "RULLINO VELOUR ART.8008 CM.10 CF.10 PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Rullini",
+    "confezione": "CF.10 PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 18,
+      "ordinamentoOriginale": "002-1127-RICCF  RULLINO VELOUR ART.8008 CM.10 CF.10 PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:003-1125M",
+    "codice": "003-1125M",
+    "descrizione": "MANICO LUNGO",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Rullini",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 19,
+      "ordinamentoOriginale": "003-1125M  MANICO LUNGO"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:003-1125MCF",
+    "codice": "003-1125MCF",
+    "descrizione": "MANICO LUNGO CF.12PZ",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Rullini",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 20,
+      "ordinamentoOriginale": "003-1125MCF  MANICO LUNGO CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:003-4300/C-15",
+    "codice": "003-4300/C-15",
+    "descrizione": "RULLO BIANCO S.4003/C CM.15",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Rullini",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 21,
+      "ordinamentoOriginale": "003-4300/C-15  RULLO BIANCO S.4003/C CM.15"
+    }
+  },
+  {
+    "id": "excel:rulli & pennelli:002-1141-RICCFDT",
+    "codice": "002-1141-RICCFDT",
+    "descrizione": "RULLINO SPUGNA ART.8005 CM.10 CF.10PZ DOPPIO TONDO",
+    "categoria": "Rulli & Pennelli",
+    "sottocategoria": "Rullini",
+    "confezione": "CF.10PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Rulli & Pennelli",
+      "riga": 22,
+      "ordinamentoOriginale": "002-1141-RICCFDT  RULLINO SPUGNA ART.8005 CM.10 CF.10PZ DOPPIO TONDO"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-2215-2.5",
+    "codice": "004-2215-2.5",
+    "descrizione": "NASTRO CARROZZERIA CM.2.5  CF.72PZ",
+    "categoria": "Mascherature",
+    "sottocategoria": "Nastri",
+    "confezione": "CF.72PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 3,
+      "ordinamentoOriginale": "004-2215-2.5  NASTRO CARROZZERIA CM.2.5  CF.72PZ"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-2215-3",
+    "codice": "004-2215-3",
+    "descrizione": "NASTRO CARROZZERIA CM.3  CF.60PZ",
+    "categoria": "Mascherature",
+    "sottocategoria": "Nastri",
+    "confezione": "CF.60PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 4,
+      "ordinamentoOriginale": "004-2215-3  NASTRO CARROZZERIA CM.3  CF.60PZ"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-2216-0.9",
+    "codice": "004-2216-0.9",
+    "descrizione": "NASTRO CARROZZERIA CM.0.9",
+    "categoria": "Mascherature",
+    "sottocategoria": "Nastri",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 5,
+      "ordinamentoOriginale": "004-2216-0.9  NASTRO CARROZZERIA CM.0.9"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-2216-1.9",
+    "codice": "004-2216-1.9",
+    "descrizione": "NASTRO CARROZZERIA CM.1.9",
+    "categoria": "Mascherature",
+    "sottocategoria": "Nastri",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 6,
+      "ordinamentoOriginale": "004-2216-1.9  NASTRO CARROZZERIA CM.1.9"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-2216-3",
+    "codice": "004-2216-3",
+    "descrizione": "NASTRO CARROZZERIA CM.3",
+    "categoria": "Mascherature",
+    "sottocategoria": "Nastri",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 7,
+      "ordinamentoOriginale": "004-2216-3  NASTRO CARROZZERIA CM.3"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-2216-5",
+    "codice": "004-2216-5",
+    "descrizione": "NASTRO CARROZZERIA CM.5",
+    "categoria": "Mascherature",
+    "sottocategoria": "Nastri",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 8,
+      "ordinamentoOriginale": "004-2216-5  NASTRO CARROZZERIA CM.5"
+    }
+  },
+  {
+    "id": "excel:mascherature:007-AVANA-5",
+    "codice": "007-AVANA-5",
+    "descrizione": "NASTRO IMBALLO AVANA CM.5",
+    "categoria": "Mascherature",
+    "sottocategoria": "Nastri",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 9,
+      "ordinamentoOriginale": "007-AVANA-5  NASTRO IMBALLO AVANA CM.5"
+    }
+  },
+  {
+    "id": "excel:mascherature:044-2090-2.5",
+    "codice": "044-2090-2.5",
+    "descrizione": "NASTRO BLU 3M 2090  CM.2.4",
+    "categoria": "Mascherature",
+    "sottocategoria": "Nastri",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 10,
+      "ordinamentoOriginale": "044-2090-2.5  NASTRO BLU 3M 2090  CM.2.4"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-00025",
+    "codice": "004-00025",
+    "descrizione": "BOBINA OVATTA GRIGIA 1X25MT (PANNO MILLEFIORI)",
+    "categoria": "Mascherature",
+    "sottocategoria": "Mascheratura",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 12,
+      "ordinamentoOriginale": "004-00025  BOBINA OVATTA GRIGIA 1X25MT (PANNO MILLEFIORI)"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-4422-4",
+    "codice": "004-4422-4",
+    "descrizione": "TELO COPRITUTTO MT.4X4",
+    "categoria": "Mascherature",
+    "sottocategoria": "Mascheratura",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 13,
+      "ordinamentoOriginale": "004-4422-4  TELO COPRITUTTO MT.4X4"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-6573-15",
+    "codice": "004-6573-15",
+    "descrizione": "CARTA MASCHERATURA 15X50",
+    "categoria": "Mascherature",
+    "sottocategoria": "Mascheratura",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 14,
+      "ordinamentoOriginale": "004-6573-15  CARTA MASCHERATURA 15X50"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-6573-30",
+    "codice": "004-6573-30",
+    "descrizione": "CARTA MASCHERATURA 30X50",
+    "categoria": "Mascherature",
+    "sottocategoria": "Mascheratura",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 15,
+      "ordinamentoOriginale": "004-6573-30  CARTA MASCHERATURA 30X50"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-6573-45",
+    "codice": "004-6573-45",
+    "descrizione": "CARTA MASCHERATURA 45X50",
+    "categoria": "Mascherature",
+    "sottocategoria": "Mascheratura",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 16,
+      "ordinamentoOriginale": "004-6573-45  CARTA MASCHERATURA 45X50"
+    }
+  },
+  {
+    "id": "excel:mascherature:004-6573-85",
+    "codice": "004-6573-85",
+    "descrizione": "CARTA MASCHERATURA 85X50",
+    "categoria": "Mascherature",
+    "sottocategoria": "Mascheratura",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Mascherature",
+      "riga": 17,
+      "ordinamentoOriginale": "004-6573-85  CARTA MASCHERATURA 85X50"
+    }
+  },
+  {
+    "id": "excel:abrasivi:030-379117900040CF",
+    "codice": "030-379117900040CF",
+    "descrizione": "DISCHI 1948 MULTI-JET D.150 GR.40 CF.50PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Sia",
+    "confezione": "CF.50PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 3,
+      "ordinamentoOriginale": "030-379117900040CF  DISCHI 1948 MULTI-JET D.150 GR.40 CF.50PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:030-379117900060CF",
+    "codice": "030-379117900060CF",
+    "descrizione": "DISCHI 1948 MULTI-JET D.150 GR.60 CF.50PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Sia",
+    "confezione": "CF.50PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 4,
+      "ordinamentoOriginale": "030-379117900060CF  DISCHI 1948 MULTI-JET D.150 GR.60 CF.50PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:030-379117900100CF",
+    "codice": "030-379117900100CF",
+    "descrizione": "DISCHI 1948 MULTI-JET D.150 GR.100 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Sia",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 5,
+      "ordinamentoOriginale": "030-379117900100CF  DISCHI 1948 MULTI-JET D.150 GR.100 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:030-379117900120CF",
+    "codice": "030-379117900120CF",
+    "descrizione": "DISCHI 1948 MULTI-JET D.150 GR.120 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Sia",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 6,
+      "ordinamentoOriginale": "030-379117900120CF  DISCHI 1948 MULTI-JET D.150 GR.120 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:030-379117900220CF",
+    "codice": "030-379117900220CF",
+    "descrizione": "DISCHI 1948 MULTI-JET D.150 GR.220 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Sia",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 7,
+      "ordinamentoOriginale": "030-379117900220CF  DISCHI 1948 MULTI-JET D.150 GR.220 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:030-379117900280CF",
+    "codice": "030-379117900280CF",
+    "descrizione": "DISCHI 1948 MULTI-JET D.150 GR.280 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Sia",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 8,
+      "ordinamentoOriginale": "030-379117900280CF  DISCHI 1948 MULTI-JET D.150 GR.280 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:030-379117900400CF",
+    "codice": "030-379117900400CF",
+    "descrizione": "DISCHI 1948 MULTI-JET D.150 GR.400 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Sia",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 9,
+      "ordinamentoOriginale": "030-379117900400CF  DISCHI 1948 MULTI-JET D.150 GR.400 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:030-379117900800CF",
+    "codice": "030-379117900800CF",
+    "descrizione": "DISCHI 1948 MULTI-JET D.150 GR.800 CF.50PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Sia",
+    "confezione": "CF.50PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 10,
+      "ordinamentoOriginale": "030-379117900800CF  DISCHI 1948 MULTI-JET D.150 GR.800 CF.50PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:030-516336871000CF",
+    "codice": "030-516336871000CF",
+    "descrizione": "DISCHI SIAAIR D.150 GR.1000 CF.10PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Sia",
+    "confezione": "CF.10PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 11,
+      "ordinamentoOriginale": "030-516336871000CF  DISCHI SIAAIR D.150 GR.1000 CF.10PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:030-516336871500CF",
+    "codice": "030-516336871500CF",
+    "descrizione": "DISCHI SIAAIR D.150 GR.1500 CF.10PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Sia",
+    "confezione": "CF.10PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 12,
+      "ordinamentoOriginale": "030-516336871500CF  DISCHI SIAAIR D.150 GR.1500 CF.10PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-07660719360",
+    "codice": "067-07660719360",
+    "descrizione": "INTERFACCIA SOFT DIAM.150 SP.10MM",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 14,
+      "ordinamentoOriginale": "067-07660719360  INTERFACCIA SOFT DIAM.150 SP.10MM"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-63642539615CF",
+    "codice": "067-63642539615CF",
+    "descrizione": "DISCHI FIBRATI F827 D.115 GR.36 CF.25PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.25PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 15,
+      "ordinamentoOriginale": "067-63642539615CF  DISCHI FIBRATI F827 D.115 GR.36 CF.25PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-66254444904CF",
+    "codice": "067-66254444904CF",
+    "descrizione": "DISCHI NORZON H835 D.150 14+1 GR.40 CF.50PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.50PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 16,
+      "ordinamentoOriginale": "067-66254444904CF  DISCHI NORZON H835 D.150 14+1 GR.40 CF.50PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-66254444908CF",
+    "codice": "067-66254444908CF",
+    "descrizione": "DISCHI NORZON H835 D.150 14+1 GR.80 CF.50PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.50PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 17,
+      "ordinamentoOriginale": "067-66254444908CF  DISCHI NORZON H835 D.150 14+1 GR.80 CF.50PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-66254444909CF",
+    "codice": "067-66254444909CF",
+    "descrizione": "DISCHI NORZON H835 D150 14+1 GR.120 CF.50PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.50PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 18,
+      "ordinamentoOriginale": "067-66254444909CF  DISCHI NORZON H835 D150 14+1 GR.120 CF.50PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-66623317117CF",
+    "codice": "067-66623317117CF",
+    "descrizione": "DISCHI ADALOX A295 D.150 15F GR.180 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 19,
+      "ordinamentoOriginale": "067-66623317117CF  DISCHI ADALOX A295 D.150 15F GR.180 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-66623317120CF",
+    "codice": "067-66623317120CF",
+    "descrizione": "DISCHI ADALOX A295 D.150 15F GR.280 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 20,
+      "ordinamentoOriginale": "067-66623317120CF  DISCHI ADALOX A295 D.150 15F GR.280 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-66623317123CF",
+    "codice": "067-66623317123CF",
+    "descrizione": "DISCHI ADALOX A295 D.150 15F GR.400 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 21,
+      "ordinamentoOriginale": "067-66623317123CF  DISCHI ADALOX A295 D.150 15F GR.400 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-66623317124CF",
+    "codice": "067-66623317124CF",
+    "descrizione": "DISCHI ADALOX A295 D.150 15F GR.500 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 22,
+      "ordinamentoOriginale": "067-66623317124CF  DISCHI ADALOX A295 D.150 15F GR.500 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-66623317125CF",
+    "codice": "067-66623317125CF",
+    "descrizione": "DISCHI ADALOX A295 D.150 15F GR.600 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 23,
+      "ordinamentoOriginale": "067-66623317125CF  DISCHI ADALOX A295 D.150 15F GR.600 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-69957390217CF",
+    "codice": "067-69957390217CF",
+    "descrizione": "DISCHI ADALOX A295 D.150 9F GR.220 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 24,
+      "ordinamentoOriginale": "067-69957390217CF  DISCHI ADALOX A295 D.150 9F GR.220 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-69957390227CF",
+    "codice": "067-69957390227CF",
+    "descrizione": "DISCHI ADALOX A295 D.150 9F GR.320 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 25,
+      "ordinamentoOriginale": "067-69957390227CF  DISCHI ADALOX A295 D.150 9F GR.320 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-69957390235CF",
+    "codice": "067-69957390235CF",
+    "descrizione": "DISCHI ADALOX A295 D.150 9F GR.400 CF.100PZ",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Norton",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 26,
+      "ordinamentoOriginale": "067-69957390235CF  DISCHI ADALOX A295 D.150 9F GR.400 CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:abrasivi:091-981.100",
+    "codice": "091-981.100",
+    "descrizione": "AA-PLATORELLO D.150 HARD C/VELCRO 6F EX.9215",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Accessori",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 28,
+      "ordinamentoOriginale": "091-981.100  AA-PLATORELLO D.150 HARD C/VELCRO 6F EX.9215"
+    }
+  },
+  {
+    "id": "excel:abrasivi:091-981.500",
+    "codice": "091-981.500",
+    "descrizione": "PLATORELLO D.150 VELCRO MULTIHOLE M8 HARD H12MM",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Accessori",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 29,
+      "ordinamentoOriginale": "091-981.500  PLATORELLO D.150 VELCRO MULTIHOLE M8 HARD H12MM"
+    }
+  },
+  {
+    "id": "excel:abrasivi:058-220",
+    "codice": "058-220",
+    "descrizione": "TAMPONE BASE PIANA C/V D.150",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Accessori",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 30,
+      "ordinamentoOriginale": "058-220  TAMPONE BASE PIANA C/V D.150"
+    }
+  },
+  {
+    "id": "excel:abrasivi:058-122",
+    "codice": "058-122",
+    "descrizione": "CONTROFLANGIA SVASATA COLLO BASSO",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Accessori",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 31,
+      "ordinamentoOriginale": "058-122  CONTROFLANGIA SVASATA COLLO BASSO"
+    }
+  },
+  {
+    "id": "excel:abrasivi:058-135C",
+    "codice": "058-135C",
+    "descrizione": "PLATORELLO NYLON BIANCO DM.115",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Accessori",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 32,
+      "ordinamentoOriginale": "058-135C  PLATORELLO NYLON BIANCO DM.115"
+    }
+  },
+  {
+    "id": "excel:abrasivi:058-172D1",
+    "codice": "058-172D1",
+    "descrizione": "INTERFACCIA SOFT 5MM 21F",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Accessori",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 33,
+      "ordinamentoOriginale": "058-172D1  INTERFACCIA SOFT 5MM 21F"
+    }
+  },
+  {
+    "id": "excel:abrasivi:067-66623338450",
+    "codice": "067-66623338450",
+    "descrizione": "PLATORELLO MEDIUM 6+8+1F D.150",
+    "categoria": "Abrasivi",
+    "sottocategoria": "Accessori",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Abrasivi",
+      "riga": 34,
+      "ordinamentoOriginale": "067-66623338450  PLATORELLO MEDIUM 6+8+1F D.150"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:008-RESINA-18",
+    "codice": "008-RESINA-18",
+    "descrizione": "RESINA POLIESTERE  KG.18",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Poliesteri",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 3,
+      "ordinamentoOriginale": "008-RESINA-18  RESINA POLIESTERE  KG.18"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:095-HN8007A31B-25",
+    "codice": "095-HN8007A31B-25",
+    "descrizione": "RESINA VINILESTERE HN800TA31B KG.25",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Poliesteri",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 4,
+      "ordinamentoOriginale": "095-HN8007A31B-25  RESINA VINILESTERE HN800TA31B KG.25"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:021-NGA8533-1",
+    "codice": "021-NGA8533-1",
+    "descrizione": "GEL COAT NGA 80533 S RAL 9010 KG.",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Poliesteri",
+    "confezione": null,
+    "unita": "kg",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 5,
+      "ordinamentoOriginale": "021-NGA8533-1  GEL COAT NGA 80533 S RAL 9010 KG."
+    },
+    "quantitaDecimale": true
+  },
+  {
+    "id": "excel:resine ed affini:033-GELNGAC-1",
+    "codice": "033-GELNGAC-1",
+    "descrizione": "GEL COAT NGA COLORATO  KG.",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Poliesteri",
+    "confezione": null,
+    "unita": "kg",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 6,
+      "ordinamentoOriginale": "033-GELNGAC-1  GEL COAT NGA COLORATO  KG."
+    },
+    "quantitaDecimale": true
+  },
+  {
+    "id": "excel:resine ed affini:008-CATA-0.5",
+    "codice": "008-CATA-0.5",
+    "descrizione": "CATALIZZATORE PER RESINA  KG.0.5",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Poliesteri",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 7,
+      "ordinamentoOriginale": "008-CATA-0.5  CATALIZZATORE PER RESINA  KG.0.5"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:008-CATAPT-0.5",
+    "codice": "008-CATAPT-0.5",
+    "descrizione": "CATALIZZ. X VINILESTERE LPT KG.0.5",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Poliesteri",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 8,
+      "ordinamentoOriginale": "008-CATAPT-0.5  CATALIZZ. X VINILESTERE LPT KG.0.5"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:099-AMPRO-20",
+    "codice": "099-AMPRO-20",
+    "descrizione": "AMPRO RESINA SOL.A  KG.20",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Epossidiche",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 10,
+      "ordinamentoOriginale": "099-AMPRO-20  AMPRO RESINA SOL.A  KG.20"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:099-CATAMPROF-3",
+    "codice": "099-CATAMPROF-3",
+    "descrizione": "CATALIZZ. AMPRO FAST  KG.3",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Epossidiche",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 11,
+      "ordinamentoOriginale": "099-CATAMPROF-3  CATALIZZ. AMPRO FAST  KG.3"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:099-CATAMPROF-6",
+    "codice": "099-CATAMPROF-6",
+    "descrizione": "CATALIZZ. AMPRO FAST  KG.6",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Epossidiche",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 12,
+      "ordinamentoOriginale": "099-CATAMPROF-6  CATALIZZ. AMPRO FAST  KG.6"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:099-CATAMPROS-6",
+    "codice": "099-CATAMPROS-6",
+    "descrizione": "CATALIZZ. AMPRO SLOW  KG.6",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Epossidiche",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 13,
+      "ordinamentoOriginale": "099-CATAMPROS-6  CATALIZZ. AMPRO SLOW  KG.6"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:008-COLLOIDALE-18",
+    "codice": "008-COLLOIDALE-18",
+    "descrizione": "COLLOIDALE SILICE  LT.18",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Additivi",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 15,
+      "ordinamentoOriginale": "008-COLLOIDALE-18  COLLOIDALE SILICE  LT.18"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:040-MICROB-2.5",
+    "codice": "040-MICROB-2.5",
+    "descrizione": "MICROSFERE FENOLICHE LT.2.5",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Additivi",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 16,
+      "ordinamentoOriginale": "040-MICROB-2.5  MICROSFERE FENOLICHE LT.2.5"
+    }
+  },
+  {
+    "id": "excel:resine ed affini:010-SP1/2-250",
+    "codice": "010-SP1/2-250",
+    "descrizione": "PARAFFINA SP1  GR.250",
+    "categoria": "Resine ed Affini",
+    "sottocategoria": "Additivi",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Resine ed Affini",
+      "riga": 17,
+      "ordinamentoOriginale": "010-SP1/2-250  PARAFFINA SP1  GR.250"
+    }
+  },
+  {
+    "id": "excel:lucidatura:041-CROMTXX-2",
+    "codice": "041-CROMTXX-2",
+    "descrizione": "PASTA CROMAR TXX EXTRA MORD.  LT.2",
+    "categoria": "Lucidatura",
+    "sottocategoria": "Paste",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Lucidatura",
+      "riga": 3,
+      "ordinamentoOriginale": "041-CROMTXX-2  PASTA CROMAR TXX EXTRA MORD.  LT.2"
+    }
+  },
+  {
+    "id": "excel:lucidatura:041-LIQUIDO-1",
+    "codice": "041-LIQUIDO-1",
+    "descrizione": "VIT LIQUIDO PER PASTE CROMAR  LT.1",
+    "categoria": "Lucidatura",
+    "sottocategoria": "Paste",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Lucidatura",
+      "riga": 4,
+      "ordinamentoOriginale": "041-LIQUIDO-1  VIT LIQUIDO PER PASTE CROMAR  LT.1"
+    }
+  },
+  {
+    "id": "excel:lucidatura:004-6531",
+    "codice": "004-6531",
+    "descrizione": "TAMPONE ARANCIO W8 C/VELCRO",
+    "categoria": "Lucidatura",
+    "sottocategoria": "Supporti",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Lucidatura",
+      "riga": 6,
+      "ordinamentoOriginale": "004-6531  TAMPONE ARANCIO W8 C/VELCRO"
+    }
+  },
+  {
+    "id": "excel:lucidatura:030-481803",
+    "codice": "030-481803",
+    "descrizione": "TAMPONE PELO AGNELLO D.200 9187",
+    "categoria": "Lucidatura",
+    "sottocategoria": "Supporti",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Lucidatura",
+      "riga": 7,
+      "ordinamentoOriginale": "030-481803  TAMPONE PELO AGNELLO D.200 9187"
+    }
+  },
+  {
+    "id": "excel:sigillanti:011-292B-310",
+    "codice": "011-292B-310",
+    "descrizione": "SIKAFLEX 292 BIANCO  ML.300",
+    "categoria": "Sigillanti",
+    "sottocategoria": "Sika",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sigillanti",
+      "riga": 3,
+      "ordinamentoOriginale": "011-292B-310  SIKAFLEX 292 BIANCO  ML.300"
+    }
+  },
+  {
+    "id": "excel:sigillanti:011-292BCF-300",
+    "codice": "011-292BCF-300",
+    "descrizione": "SIKAFLEX 292 BIANCO  ML.300 CF.12PZ",
+    "categoria": "Sigillanti",
+    "sottocategoria": "Sika",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sigillanti",
+      "riga": 4,
+      "ordinamentoOriginale": "011-292BCF-300  SIKAFLEX 292 BIANCO  ML.300 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:sigillanti:011-435675-2.5",
+    "codice": "011-435675-2.5",
+    "descrizione": "SIKA TEAK OIL  LT.2.5",
+    "categoria": "Sigillanti",
+    "sottocategoria": "Sika",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sigillanti",
+      "riga": 5,
+      "ordinamentoOriginale": "011-435675-2.5  SIKA TEAK OIL  LT.2.5"
+    }
+  },
+  {
+    "id": "excel:sigillanti:011-591B-300",
+    "codice": "011-591B-300",
+    "descrizione": "SIKAFLEX 591 BIANCO ML.300",
+    "categoria": "Sigillanti",
+    "sottocategoria": "Sika",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sigillanti",
+      "riga": 6,
+      "ordinamentoOriginale": "011-591B-300  SIKAFLEX 591 BIANCO ML.300"
+    }
+  },
+  {
+    "id": "excel:sigillanti:011-591BCF-300",
+    "codice": "011-591BCF-300",
+    "descrizione": "SIKAFLEX 591 BIANCO ML.300  CF.12PZ",
+    "categoria": "Sigillanti",
+    "sottocategoria": "Sika",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sigillanti",
+      "riga": 7,
+      "ordinamentoOriginale": "011-591BCF-300  SIKAFLEX 591 BIANCO ML.300  CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:sigillanti:011-79074-0.5",
+    "codice": "011-79074-0.5",
+    "descrizione": "SIKA TEAK OIL  LT.0.5",
+    "categoria": "Sigillanti",
+    "sottocategoria": "Sika",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sigillanti",
+      "riga": 8,
+      "ordinamentoOriginale": "011-79074-0.5  SIKA TEAK OIL  LT.0.5"
+    }
+  },
+  {
+    "id": "excel:sigillanti:084-000013-290",
+    "codice": "084-000013-290",
+    "descrizione": "NPT SIMP SEAL CLEAR  ML.290",
+    "categoria": "Sigillanti",
+    "sottocategoria": "NPT",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sigillanti",
+      "riga": 10,
+      "ordinamentoOriginale": "084-000013-290  NPT SIMP SEAL CLEAR  ML.290"
+    }
+  },
+  {
+    "id": "excel:sigillanti:084-000013-290CF",
+    "codice": "084-000013-290CF",
+    "descrizione": "NPT SIMP SEAL CLEAR ML.290 CF.12PZ",
+    "categoria": "Sigillanti",
+    "sottocategoria": "NPT",
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sigillanti",
+      "riga": 11,
+      "ordinamentoOriginale": "084-000013-290CF  NPT SIMP SEAL CLEAR ML.290 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel:jotun:033-06VCPBAQA-0.5",
+    "codice": "033-06VCPBAQA-0.5",
+    "descrizione": "ANTIPEST PRIMER COMP.B LT.0.5",
+    "categoria": "Jotun",
+    "sottocategoria": "Primer",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Jotun",
+      "riga": 3,
+      "ordinamentoOriginale": "033-06VCPBAQA-0.5  ANTIPEST PRIMER COMP.B LT.0.5"
+    }
+  },
+  {
+    "id": "excel:jotun:033-06VGRECVA-2",
+    "codice": "033-06VGRECVA-2",
+    "descrizione": "ANTIPEST PRIMER GREY SOL.A LT.2",
+    "categoria": "Jotun",
+    "sottocategoria": "Primer",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Jotun",
+      "riga": 4,
+      "ordinamentoOriginale": "033-06VGRECVA-2  ANTIPEST PRIMER GREY SOL.A LT.2"
+    }
+  },
+  {
+    "id": "excel:jotun:033-332CASASA-0.7",
+    "codice": "033-332CASASA-0.7",
+    "descrizione": "JOTAMASTIC 87 STD COMP.B LT.0.7",
+    "categoria": "Jotun",
+    "sottocategoria": "Primer",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Jotun",
+      "riga": 5,
+      "ordinamentoOriginale": "033-332CASASA-0.7  JOTAMASTIC 87 STD COMP.B LT.0.7"
+    }
+  },
+  {
+    "id": "excel:jotun:033-466CPACVA-2",
+    "codice": "033-466CPACVA-2",
+    "descrizione": "MEGAFILLER MULTI SOL.A LT.2",
+    "categoria": "Jotun",
+    "sottocategoria": "Stucchi",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Jotun",
+      "riga": 7,
+      "ordinamentoOriginale": "033-466CPACVA-2  MEGAFILLER MULTI SOL.A LT.2"
+    }
+  },
+  {
+    "id": "excel:jotun:033-466CPBCVA-2",
+    "codice": "033-466CPBCVA-2",
+    "descrizione": "MEGAFILLER MULTI COMP.B LT.2",
+    "categoria": "Jotun",
+    "sottocategoria": "Stucchi",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Jotun",
+      "riga": 8,
+      "ordinamentoOriginale": "033-466CPBCVA-2  MEGAFILLER MULTI COMP.B LT.2"
+    }
+  },
+  {
+    "id": "excel:epifanes:034-EP002-1",
+    "codice": "034-EP002-1",
+    "descrizione": "VERNICE LUCIDA EPIFANES LT.1",
+    "categoria": "Epifanes",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Epifanes",
+      "riga": 2,
+      "ordinamentoOriginale": "034-EP002-1  VERNICE LUCIDA EPIFANES LT.1"
+    }
+  },
+  {
+    "id": "excel:epifanes:034-EP002-1CF",
+    "codice": "034-EP002-1CF",
+    "descrizione": "VERNICE LUCIDA EPIFANES LT.1 CF12PZ",
+    "categoria": "Epifanes",
+    "sottocategoria": null,
+    "confezione": "CF12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Epifanes",
+      "riga": 3,
+      "ordinamentoOriginale": "034-EP002-1CF  VERNICE LUCIDA EPIFANES LT.1 CF12PZ"
+    }
+  },
+  {
+    "id": "excel:epifanes:034-EP501-1",
+    "codice": "034-EP501-1",
+    "descrizione": "DILUENTE PENNELLO EPIFANES LT.1",
+    "categoria": "Epifanes",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Epifanes",
+      "riga": 4,
+      "ordinamentoOriginale": "034-EP501-1  DILUENTE PENNELLO EPIFANES LT.1"
+    }
+  },
+  {
+    "id": "excel:skipper:080-201-1",
+    "codice": "080-201-1",
+    "descrizione": "DILATANTE/RITARDANTE 201 X POLIUR.BICOMP.  LT.1",
+    "categoria": "Skipper",
+    "sottocategoria": "Diluenti",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 3,
+      "ordinamentoOriginale": "080-201-1  DILATANTE/RITARDANTE 201 X POLIUR.BICOMP.  LT.1"
+    }
+  },
+  {
+    "id": "excel:skipper:080-205-1",
+    "codice": "080-205-1",
+    "descrizione": "DILATANTE 205 X POLIUR.BICOMP. LT.1",
+    "categoria": "Skipper",
+    "sottocategoria": "Diluenti",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 4,
+      "ordinamentoOriginale": "080-205-1  DILATANTE 205 X POLIUR.BICOMP. LT.1"
+    }
+  },
+  {
+    "id": "excel:skipper:080-3E3922-10",
+    "codice": "080-3E3922-10",
+    "descrizione": "STANDARD PLUS ROSSO OSSIDO  LT.10",
+    "categoria": "Skipper",
+    "sottocategoria": "Antivegetative",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 6,
+      "ordinamentoOriginale": "080-3E3922-10  STANDARD PLUS ROSSO OSSIDO  LT.10"
+    }
+  },
+  {
+    "id": "excel:skipper:080-3E5975-10",
+    "codice": "080-3E5975-10",
+    "descrizione": "STANDARD PLUS BLU UNIVERSO  LT.10",
+    "categoria": "Skipper",
+    "sottocategoria": "Antivegetative",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 7,
+      "ordinamentoOriginale": "080-3E5975-10  STANDARD PLUS BLU UNIVERSO  LT.10"
+    }
+  },
+  {
+    "id": "excel:skipper:080-3E6199-10",
+    "codice": "080-3E6199-10",
+    "descrizione": "STANDARD PLUS AZZURRO  LT.10",
+    "categoria": "Skipper",
+    "sottocategoria": "Antivegetative",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 8,
+      "ordinamentoOriginale": "080-3E6199-10  STANDARD PLUS AZZURRO  LT.10"
+    }
+  },
+  {
+    "id": "excel:skipper:080-3E6411-10",
+    "codice": "080-3E6411-10",
+    "descrizione": "STANDARD PLUS STC BIANCO  LT.10",
+    "categoria": "Skipper",
+    "sottocategoria": "Antivegetative",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 9,
+      "ordinamentoOriginale": "080-3E6411-10  STANDARD PLUS STC BIANCO  LT.10"
+    }
+  },
+  {
+    "id": "excel:skipper:080-3F6613-2.5",
+    "codice": "080-3F6613-2.5",
+    "descrizione": "CONTENDER NERO  LT.2.5",
+    "categoria": "Skipper",
+    "sottocategoria": "Antivegetative",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 10,
+      "ordinamentoOriginale": "080-3F6613-2.5  CONTENDER NERO  LT.2.5"
+    }
+  },
+  {
+    "id": "excel:skipper:080-3F6617-2.5",
+    "codice": "080-3F6617-2.5",
+    "descrizione": "CONTENDER ROSSO  LT.2.5",
+    "categoria": "Skipper",
+    "sottocategoria": "Antivegetative",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 11,
+      "ordinamentoOriginale": "080-3F6617-2.5  CONTENDER ROSSO  LT.2.5"
+    }
+  },
+  {
+    "id": "excel:skipper:080-B654414-10",
+    "codice": "080-B654414-10",
+    "descrizione": "VENOX SUPER AUTOL. ROSSO OSS. LT.10",
+    "categoria": "Skipper",
+    "sottocategoria": "Antivegetative",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 12,
+      "ordinamentoOriginale": "080-B654414-10  VENOX SUPER AUTOL. ROSSO OSS. LT.10"
+    }
+  },
+  {
+    "id": "excel:skipper:080-4S4478-2.5",
+    "codice": "080-4S4478-2.5",
+    "descrizione": "INTERNO SCAFI GRIGIO  LT.2.5",
+    "categoria": "Skipper",
+    "sottocategoria": "Smalti e Fondi",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 14,
+      "ordinamentoOriginale": "080-4S4478-2.5  INTERNO SCAFI GRIGIO  LT.2.5"
+    }
+  },
+  {
+    "id": "excel:skipper:080-5S0000-2.5",
+    "codice": "080-5S0000-2.5",
+    "descrizione": "POLIFOND BIANCO SOL.A LT.2.5",
+    "categoria": "Skipper",
+    "sottocategoria": "Smalti e Fondi",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 15,
+      "ordinamentoOriginale": "080-5S0000-2.5  POLIFOND BIANCO SOL.A LT.2.5"
+    }
+  },
+  {
+    "id": "excel:skipper:080-8ZPLFO-1",
+    "codice": "080-8ZPLFO-1",
+    "descrizione": "POLIFOND BIANCO COMP.B LT.1",
+    "categoria": "Skipper",
+    "sottocategoria": "Smalti e Fondi",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 16,
+      "ordinamentoOriginale": "080-8ZPLFO-1  POLIFOND BIANCO COMP.B LT.1"
+    }
+  },
+  {
+    "id": "excel:skipper:080-5WUV00-0.5",
+    "codice": "080-5WUV00-0.5",
+    "descrizione": "ACRIGLASS UV SOL.A LT.0.5",
+    "categoria": "Skipper",
+    "sottocategoria": "Smalti e Fondi",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 17,
+      "ordinamentoOriginale": "080-5WUV00-0.5  ACRIGLASS UV SOL.A LT.0.5"
+    }
+  },
+  {
+    "id": "excel:skipper:080-8ZVEAC-0.250",
+    "codice": "080-8ZVEAC-0.250",
+    "descrizione": "ACRIGLASS UV COMP.B LT.0.250",
+    "categoria": "Skipper",
+    "sottocategoria": "Smalti e Fondi",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Skipper",
+      "riga": 18,
+      "ordinamentoOriginale": "080-8ZVEAC-0.250  ACRIGLASS UV COMP.B LT.0.250"
+    }
+  },
+  {
+    "id": "excel:stucchi:092-P50-5.92",
+    "codice": "092-P50-5.92",
+    "descrizione": "P50 STUCCO VETRORESINA A+B KG.5.92 P5076210M1",
+    "categoria": "Stucchi",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Stucchi",
+      "riga": 2,
+      "ordinamentoOriginale": "092-P50-5.92  P50 STUCCO VETRORESINA A+B KG.5.92 P5076210M1"
+    }
+  },
+  {
+    "id": "excel:stucchi:092-P50-750",
+    "codice": "092-P50-750",
+    "descrizione": "P50 STUCCO VETRORESINA A+B ML.750 P5011190M1",
+    "categoria": "Stucchi",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Stucchi",
+      "riga": 3,
+      "ordinamentoOriginale": "092-P50-750  P50 STUCCO VETRORESINA A+B ML.750 P5011190M1"
+    }
+  },
+  {
+    "id": "excel:stucchi:092-P69-20",
+    "codice": "092-P69-20",
+    "descrizione": "P69 POLIERRE VIRACOLOR SOL.A KG.20 P6922009M1",
+    "categoria": "Stucchi",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Stucchi",
+      "riga": 4,
+      "ordinamentoOriginale": "092-P69-20  P69 POLIERRE VIRACOLOR SOL.A KG.20 P6922009M1"
+    }
+  },
+  {
+    "id": "excel:stucchi:092-S15-5",
+    "codice": "092-S15-5",
+    "descrizione": "S15 STUCCO BIANCO A+B KG.5 S1576211M1",
+    "categoria": "Stucchi",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Stucchi",
+      "riga": 5,
+      "ordinamentoOriginale": "092-S15-5  S15 STUCCO BIANCO A+B KG.5 S1576211M1"
+    }
+  },
+  {
+    "id": "excel:stucchi:092-S15-750",
+    "codice": "092-S15-750",
+    "descrizione": "S15 STUCCO BIANCO A+B  ML.750 S1511190M1",
+    "categoria": "Stucchi",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Stucchi",
+      "riga": 6,
+      "ordinamentoOriginale": "092-S15-750  S15 STUCCO BIANCO A+B  ML.750 S1511190M1"
+    }
+  },
+  {
+    "id": "excel:stucchi:092-C10-0.5",
+    "codice": "092-C10-0.5",
+    "descrizione": "CATALIZZ. IN PASTA C10  KG.0.5",
+    "categoria": "Stucchi",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Stucchi",
+      "riga": 7,
+      "ordinamentoOriginale": "092-C10-0.5  CATALIZZ. IN PASTA C10  KG.0.5"
+    }
+  },
+  {
+    "id": "excel:sestriere:098-2780/C-4",
+    "codice": "098-2780/C-4",
+    "descrizione": "INDURENTE POLIAMMIDICO  LT.4",
+    "categoria": "Sestriere",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sestriere",
+      "riga": 2,
+      "ordinamentoOriginale": "098-2780/C-4  INDURENTE POLIAMMIDICO  LT.4"
+    }
+  },
+  {
+    "id": "excel:sestriere:098-5042/CLM-0.5",
+    "codice": "098-5042/CLM-0.5",
+    "descrizione": "INDURENTE MS ALIFATICO RAPID LT.0.5",
+    "categoria": "Sestriere",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sestriere",
+      "riga": 3,
+      "ordinamentoOriginale": "098-5042/CLM-0.5  INDURENTE MS ALIFATICO RAPID LT.0.5"
+    }
+  },
+  {
+    "id": "excel:sestriere:098-5042/CLM-1",
+    "codice": "098-5042/CLM-1",
+    "descrizione": "INDURENTE MS ALIFATICO RAPID  LT.1",
+    "categoria": "Sestriere",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sestriere",
+      "riga": 4,
+      "ordinamentoOriginale": "098-5042/CLM-1  INDURENTE MS ALIFATICO RAPID  LT.1"
+    }
+  },
+  {
+    "id": "excel:sestriere:098-5042/CLM-5",
+    "codice": "098-5042/CLM-5",
+    "descrizione": "INDURENTE MS ALIFATICO RAPID  LT.5",
+    "categoria": "Sestriere",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sestriere",
+      "riga": 5,
+      "ordinamentoOriginale": "098-5042/CLM-5  INDURENTE MS ALIFATICO RAPID  LT.5"
+    }
+  },
+  {
+    "id": "excel:sestriere:098-A22-1",
+    "codice": "098-A22-1",
+    "descrizione": "PUR EXTRA MS BRILLANTE SOL.A RAL KG.1",
+    "categoria": "Sestriere",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sestriere",
+      "riga": 6,
+      "ordinamentoOriginale": "098-A22-1  PUR EXTRA MS BRILLANTE SOL.A RAL KG.1"
+    }
+  },
+  {
+    "id": "excel:sestriere:098-A22-5",
+    "codice": "098-A22-5",
+    "descrizione": "PUR EXTRA MS BRILLANTE SOL.A RAL KG.5",
+    "categoria": "Sestriere",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sestriere",
+      "riga": 7,
+      "ordinamentoOriginale": "098-A22-5  PUR EXTRA MS BRILLANTE SOL.A RAL KG.5"
+    }
+  },
+  {
+    "id": "excel:sestriere:098-AK40-1",
+    "codice": "098-AK40-1",
+    "descrizione": "PRIMER ACRIL-POLIURETANICO SOL.A RAL KG.1",
+    "categoria": "Sestriere",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sestriere",
+      "riga": 8,
+      "ordinamentoOriginale": "098-AK40-1  PRIMER ACRIL-POLIURETANICO SOL.A RAL KG.1"
+    }
+  },
+  {
+    "id": "excel:sestriere:098-E82-20",
+    "codice": "098-E82-20",
+    "descrizione": "SMALTO EPOXIN SEMILUCIDO SOL.A RAL KG.20",
+    "categoria": "Sestriere",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sestriere",
+      "riga": 9,
+      "ordinamentoOriginale": "098-E82-20  SMALTO EPOXIN SEMILUCIDO SOL.A RAL KG.20"
+    }
+  },
+  {
+    "id": "excel:sestriere:098-E85-5",
+    "codice": "098-E85-5",
+    "descrizione": "SMALTO EPOXI PUR SEMILUCIDO SOL.A RAL KG.5",
+    "categoria": "Sestriere",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Sestriere",
+      "riga": 10,
+      "ordinamentoOriginale": "098-E85-5  SMALTO EPOXI PUR SEMILUCIDO SOL.A RAL KG.5"
+    }
+  },
+  {
+    "id": "excel:hempel:101-7188W1000-20",
+    "codice": "101-7188W1000-20",
+    "descrizione": "MILLE NCT WHITE  LT.20",
+    "categoria": "Hempel",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Hempel",
+      "riga": 2,
+      "ordinamentoOriginale": "101-7188W1000-20  MILLE NCT WHITE  LT.20"
+    }
+  },
+  {
+    "id": "excel:hempel:101-7188W1000-5",
+    "codice": "101-7188W1000-5",
+    "descrizione": "MILLE NCT WHITE  LT.5",
+    "categoria": "Hempel",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Hempel",
+      "riga": 3,
+      "ordinamentoOriginale": "101-7188W1000-5  MILLE NCT WHITE  LT.5"
+    }
+  },
+  {
+    "id": "excel:international:065-000100-1",
+    "codice": "065-000100-1",
+    "descrizione": "DILUENTE N.100  LT.1",
+    "categoria": "International",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "International",
+      "riga": 2,
+      "ordinamentoOriginale": "065-000100-1  DILUENTE N.100  LT.1"
+    }
+  },
+  {
+    "id": "excel:international:065-00026-1.4",
+    "codice": "065-00026-1.4",
+    "descrizione": "PERFECTION PRO SOL.A WHITE/GREY/BLACK RAL  QUART.",
+    "categoria": "International",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "International",
+      "riga": 3,
+      "ordinamentoOriginale": "065-00026-1.4  PERFECTION PRO SOL.A WHITE/GREY/BLACK RAL  QUART."
+    }
+  },
+  {
+    "id": "excel:international:065-00029-PINT",
+    "codice": "065-00029-PINT",
+    "descrizione": "PERFECTION PRO SOL.B CURING AGENT PINT.",
+    "categoria": "International",
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "International",
+      "riga": 4,
+      "ordinamentoOriginale": "065-00029-PINT  PERFECTION PRO SOL.B CURING AGENT PINT."
+    }
+  },
+  {
+    "id": "excel:dpi e varie:025-8270802",
+    "codice": "025-8270802",
+    "descrizione": "TUTA BODYGUARD EXTRA",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "DPI",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 3,
+      "ordinamentoOriginale": "025-8270802  TUTA BODYGUARD EXTRA"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:025-LATEX",
+    "codice": "025-LATEX",
+    "descrizione": "GUANTI LATEX CF.100PZ",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "DPI",
+    "confezione": "CF.100PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 4,
+      "ordinamentoOriginale": "025-LATEX  GUANTI LATEX CF.100PZ"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:068-BLS030CCF",
+    "codice": "068-BLS030CCF",
+    "descrizione": "RESPIRATORE BLS 030 C FFP3 R D CF.10PZ",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "DPI",
+    "confezione": "CF.10PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 5,
+      "ordinamentoOriginale": "068-BLS030CCF  RESPIRATORE BLS 030 C FFP3 R D CF.10PZ"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:076-105759",
+    "codice": "076-105759",
+    "descrizione": "OCCHIALI ACTIVE VISION V125",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "DPI",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 6,
+      "ordinamentoOriginale": "076-105759  OCCHIALI ACTIVE VISION V125"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:004-00006",
+    "codice": "004-00006",
+    "descrizione": "PEZZAME BIANCO  KG.10",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 8,
+      "ordinamentoOriginale": "004-00006  PEZZAME BIANCO  KG.10"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:006-ROTOLICF",
+    "codice": "006-ROTOLICF",
+    "descrizione": "ROTOLO CARTA ASCIUGAMANI 2 VELI CF.2PZ",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": "CF.2PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 9,
+      "ordinamentoOriginale": "006-ROTOLICF  ROTOLO CARTA ASCIUGAMANI 2 VELI CF.2PZ"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:018-CUTTERG",
+    "codice": "018-CUTTERG",
+    "descrizione": "CUTTER GRANDE ECONOMICO",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 10,
+      "ordinamentoOriginale": "018-CUTTERG  CUTTER GRANDE ECONOMICO"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:018-SACCHI2",
+    "codice": "018-SACCHI2",
+    "descrizione": "SACCHI IMM. 1252/2 LT.240 CF.10PZ",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": "CF.10PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 11,
+      "ordinamentoOriginale": "018-SACCHI2  SACCHI IMM. 1252/2 LT.240 CF.10PZ"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:025-1320050",
+    "codice": "025-1320050",
+    "descrizione": "CONTENITORE GRADUATO PP ML.300",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 12,
+      "ordinamentoOriginale": "025-1320050  CONTENITORE GRADUATO PP ML.300"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:025-1320055",
+    "codice": "025-1320055",
+    "descrizione": "CONTENITORE GRADUATO PP ML.600",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 13,
+      "ordinamentoOriginale": "025-1320055  CONTENITORE GRADUATO PP ML.600"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:025-1320060",
+    "codice": "025-1320060",
+    "descrizione": "CONTENITORE GRADUATO PP ML.1100",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 14,
+      "ordinamentoOriginale": "025-1320060  CONTENITORE GRADUATO PP ML.1100"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:025-1320061",
+    "codice": "025-1320061",
+    "descrizione": "CONTENITORE GRADUATO PP ML.1900",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 15,
+      "ordinamentoOriginale": "025-1320061  CONTENITORE GRADUATO PP ML.1900"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:025-1510060",
+    "codice": "025-1510060",
+    "descrizione": "PANNO ANTIPOLVERE STAUBFIX",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 16,
+      "ordinamentoOriginale": "025-1510060  PANNO ANTIPOLVERE STAUBFIX"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:058-IMBUTOCARTA",
+    "codice": "058-IMBUTOCARTA",
+    "descrizione": "IMBUTO CARTA 125 AZZURRO",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 17,
+      "ordinamentoOriginale": "058-IMBUTOCARTA  IMBUTO CARTA 125 AZZURRO"
+    }
+  },
+  {
+    "id": "excel:dpi e varie:084-09030-5",
+    "codice": "084-09030-5",
+    "descrizione": "PASTA LAVAMANI PIGAL  LT.5",
+    "categoria": "DPI e Varie",
+    "sottocategoria": "Varie",
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "DPI e Varie",
+      "riga": 18,
+      "ordinamentoOriginale": "084-09030-5  PASTA LAVAMANI PIGAL  LT.5"
+    }
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "excel-r2",
+    "codice": "001-70020-1",
+    "descrizione": "DILUENTE 277  LT.1",
+    "categoria": null,
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Foglio1",
+      "riga": 2,
+      "ordinamentoOriginale": "001-70020-1  DILUENTE 277  LT.1"
+    }
+  },
+  {
+    "id": "excel-r3",
+    "codice": "001-S70050-1",
+    "descrizione": "DILATANTE 678  LT.1",
+    "categoria": null,
+    "sottocategoria": null,
+    "confezione": null,
+    "unita": null,
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Foglio1",
+      "riga": 3,
+      "ordinamentoOriginale": "001-S70050-1  DILATANTE 678  LT.1"
+    }
+  },
+  {
+    "id": "excel-r4",
+    "codice": "002-1125-RICCF",
+    "descrizione": "RULLINO RIGA GIALLA ART.8000 CM.10 CF.10PZ",
+    "categoria": null,
+    "sottocategoria": null,
+    "confezione": "CF.10PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Foglio1",
+      "riga": 4,
+      "ordinamentoOriginale": "002-1125-RICCF  RULLINO RIGA GIALLA ART.8000 CM.10 CF.10PZ"
+    }
+  },
+  {
+    "id": "excel-r5",
+    "codice": "002-1127-RICCF",
+    "descrizione": "RULLINO VELOUR ART.8008 CM.10 CF.10 PZ",
+    "categoria": null,
+    "sottocategoria": null,
+    "confezione": "CF.10 PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Foglio1",
+      "riga": 5,
+      "ordinamentoOriginale": "002-1127-RICCF  RULLINO VELOUR ART.8008 CM.10 CF.10 PZ"
+    }
+  },
+  {
+    "id": "excel-r6",
+    "codice": "002-1141-RICCFDT",
+    "descrizione": "RULLINO SPUGNA ART.8005 CM.10 CF.10PZ DOPPIO TONDO",
+    "categoria": null,
+    "sottocategoria": null,
+    "confezione": "CF.10PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Foglio1",
+      "riga": 6,
+      "ordinamentoOriginale": "002-1141-RICCFDT  RULLINO SPUGNA ART.8005 CM.10 CF.10PZ DOPPIO TONDO"
+    }
+  },
+  {
+    "id": "excel-r7",
+    "codice": "002-404-30CF",
+    "descrizione": "PENNELLESSE S.300 N.30 CF.12PZ",
+    "categoria": null,
+    "sottocategoria": null,
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Foglio1",
+      "riga": 7,
+      "ordinamentoOriginale": "002-404-30CF  PENNELLESSE S.300 N.30 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel-r8",
+    "codice": "002-404-40CF",
+    "descrizione": "PENNELLESSE S.300 N.40 CF.12PZ",
+    "categoria": null,
+    "sottocategoria": null,
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Foglio1",
+      "riga": 8,
+      "ordinamentoOriginale": "002-404-40CF  PENNELLESSE S.300 N.40 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel-r9",
+    "codice": "002-404-50CF",
+    "descrizione": "PENNELLESSE S.300 N.50 CF.12PZ",
+    "categoria": null,
+    "sottocategoria": null,
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Foglio1",
+      "riga": 9,
+      "ordinamentoOriginale": "002-404-50CF  PENNELLESSE S.300 N.50 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel-r10",
+    "codice": "002-606-10CF",
+    "descrizione": "OVALINI S.330 N.10 CF.12PZ",
+    "categoria": null,
+    "sottocategoria": null,
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Foglio1",
+      "riga": 10,
+      "ordinamentoOriginale": "002-606-10CF  OVALINI S.330 N.10 CF.12PZ"
+    }
+  },
+  {
+    "id": "excel-r11",
+    "codice": "002-606-16CF",
+    "descrizione": "OVALINI S.330 N.16 CF.12PZ",
+    "categoria": null,
+    "sottocategoria": null,
+    "confezione": "CF.12PZ",
+    "unita": "confezioni",
+    "multiploMinimo": null,
+    "fonte": {
+      "foglio": "Foglio1",
+      "riga": 11,
+      "ordinamentoOriginale": "002-606-16CF  OVALINI S.330 N.16 CF.12PZ"
+    }
+  }
+]
