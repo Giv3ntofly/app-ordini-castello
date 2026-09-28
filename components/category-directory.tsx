@@ -15,6 +15,7 @@ import {
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { alphabetically, categories, categoryHref } from "@/lib/navigation";
+import { assetPath } from "@/lib/asset-path";
 import type { Product } from "@/types/product";
 
 const visuals: Record<
@@ -173,7 +174,7 @@ export function CategoryDirectory({
                   >
                     {(() => {
                   if (visual?.logo)
-                    return <img src={visual.logo} alt="" aria-hidden="true" />;
+                    return <img src={assetPath(visual.logo)} alt="" aria-hidden="true" />;
                   if (visual?.photo) return null;
                   const Icon = visual?.Icon ?? Wrench;
                   return <Icon size={25} strokeWidth={1.7} />;

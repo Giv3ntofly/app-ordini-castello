@@ -39,6 +39,7 @@ import { QuantityInput } from "./quantity-input";
 import { ConfirmDialog } from "./confirm-dialog";
 import { CategoryDirectory } from "./category-directory";
 import { categories, categoryHref } from "@/lib/navigation";
+import { assetPath } from "@/lib/asset-path";
 
 export function CatalogApp({
   products,
@@ -261,7 +262,7 @@ export function CatalogApp({
       <header className="topbar">
         <div className="topbar-inner">
           <Link className="brand" href="/" aria-label="Ordini, catalogo">
-            <img src="/brand/nsp-logo.png" alt="NSP" />
+            <img src={assetPath("/brand/nsp-logo.png")} alt="NSP" />
           </Link>
           <span className="header-title">Ordini</span>
           <nav className="main-nav" aria-label="Navigazione principale">

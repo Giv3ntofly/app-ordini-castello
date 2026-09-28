@@ -69,7 +69,7 @@
   overflow: hidden;
 }
 .directory-icon.photo {
-  background-image: url("/brand/category-photo-grid.png");
+  background-image: var(--category-photo-grid);
   background-size: 300% 300%;
   background-repeat: no-repeat;
   border: 1px solid #dbe5ef;
@@ -364,7 +364,7 @@ button:disabled {
   position: fixed;
   width: min(72vw, 920px);
   aspect-ratio: 950 / 772;
-  background: url("/brand/nsp-logo.png") center / contain no-repeat;
+  background: var(--nsp-logo) center / contain no-repeat;
   opacity: 0.09;
   right: -145px;
   bottom: -105px;
